@@ -110,9 +110,3 @@ haberman-survival-prediction/
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🙋 Author
-
-Made with ❤️ for learning purposes. Contributions and feedback are welcome!
